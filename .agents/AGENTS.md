@@ -65,5 +65,6 @@ Al interactuar con el código de este repositorio, puedes asumir o solicitar el 
 * **Control de Permisos**: Antes de ejecutar cualquier comando del sistema potencialmente peligroso o realizar cambios estructurales profundos, debes pedir permiso explícito al usuario.
 * **Validación Rigurosa**: Implementa validación en todos los formularios y respuestas de APIs externas. Las entradas de datos deben estar sanitizadas.
 * **Código Limpio y DRY**: No dupliques lógica de negocio. Si una función es de utilidad compartida, extráela a un módulo `core/utils/` o `core/network/`.
+* **Cero Emojis**: Queda estrictamente prohibido el uso de emojis en toda la documentación del proyecto, comentarios de código, mensajes de commit y cualquier archivo generado por IA o desarrolladores.
 
 *Nota: Para detalles específicos sobre nomenclatura y guías de codificación, consulta la regla personalizada en [.agent/rules/code-style.md](file:///c:/Users/rbarr/Desktop/music_app/.agent/rules/code-style.md).*

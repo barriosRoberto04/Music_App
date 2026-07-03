@@ -1,4 +1,4 @@
-# Arquitectura de Datos y Plan de Integración de Hive 📦
+# Arquitectura de Datos y Plan de Integración de Hive
 
 Este documento detalla el diseño de almacenamiento local, los modelos de datos y la integración de **Hive** como base de datos local embebida para la aplicación `music_app`.
 

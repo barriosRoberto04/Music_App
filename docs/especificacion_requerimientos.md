@@ -1,4 +1,4 @@
-# Music App - Proyecto de Reproducción y Gestión de Audio 🎵
+# Music App - Proyecto de Reproducción y Gestión de Audio
 
 Documentación técnica y especificación de requerimientos para el desarrollo de la aplicación móvil de música personalizada (Flutter/Dart).
 
